@@ -1,1 +1,2 @@
-# react-redux-webpack-todo
+# 使用了react、redux
+基于webpack
